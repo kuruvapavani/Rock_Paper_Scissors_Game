@@ -1,1 +1,3 @@
 # Rock_Paper_Scissors_Game
+
+This project is a simple and fun game of rock, paper, and scissors. I used HTML, CSS, and JavaScript to create the game logic, user interface, and visual effects. The game allows you to play against the computer, which randomly chooses one of the three options. You can choose your option by clicking on the icons. The game follows the standard rules: rock beats scissors, scissors beats paper, and paper beats rock. The game also keeps track of your score and displays the result of each round. The project demonstrates my ability to use JavaScript to create interactive and dynamic web applications.
